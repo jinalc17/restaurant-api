@@ -1,5 +1,4 @@
 //Name: Jinal Chandibhamar
-//Student Number: 8961760
 
 const express = require('express');
 const mongoose = require('mongoose');
